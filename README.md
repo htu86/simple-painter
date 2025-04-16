@@ -8,5 +8,5 @@ To compile run (inside the src directory):
 
 - `sh compile.sh`
 
- After that you can simply run the exe or alternatively run *./main* in your terminal
+ After that you can simply run the executable or alternatively run *./main* in your terminal
 
